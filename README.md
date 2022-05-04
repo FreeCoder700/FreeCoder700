@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FreeCoder700
+- 👋 Hi, I’m Emmanuel The Programmer
 - 👀 I’m interested in Computer Programming.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHPand Python
 - 💞️ I’m looking to collaborate on ...
